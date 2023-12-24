@@ -8,3 +8,7 @@ I'm trying to submit solutions in as many programming languages as possible.
 ```sh
 deno task sync
 ```
+
+## License
+
+Licensed under a CC0 license. See [LICENSE file](./LICENSE) for more further details.
