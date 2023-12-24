@@ -1,0 +1,25 @@
+{
+  "001": {
+    "url": "https://atcoder.jp/contests/abc139/tasks/abc139_b",
+    "name": "B. Power Socket",
+    "submissions": {
+      "C": "https://atcoder.jp/contests/abc139/submissions/47990066",
+      "C++": "https://atcoder.jp/contests/abc139/submissions/47989913",
+      "Python": "https://atcoder.jp/contests/abc139/submissions/47989985"
+    }
+  },
+  "002": {
+    "url": "https://atcoder.jp/contests/abc156/tasks/abc156_c",
+    "name": "C. Rally",
+    "submissions": {
+      "C++": "https://atcoder.jp/contests/abc156/submissions/47989604"
+    }
+  },
+  "003": {
+    "url": "https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_b",
+    "name": "B. Qualification simulator",
+    "submissions": {
+      
+    }
+  }
+}

@@ -1,0 +1,18 @@
+categories:
+  easy100:
+    id: easy100
+    name: "Easy 100"
+    url: "https://kenkoooo.com/atcoder#/training/Boot%20camp%20for%20Beginners/1"
+  medium100:
+    id: medium100
+    name: "Medium 100"
+    url: "https://kenkoooo.com/atcoder#/training/Boot%20camp%20for%20Beginners/2"
+  hard100:
+    id: hard100
+    name: "Hard 100"
+    url: "https://kenkoooo.com/atcoder#/training/Boot%20camp%20for%20Beginners/3"
+
+extension:
+  "C": "c"
+  "C++": "cpp"
+  "Python": "py"
