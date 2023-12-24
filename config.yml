@@ -16,3 +16,4 @@ extension:
   "C": "c"
   "C++": "cpp"
   "Python": "py"
+  "Go": "go"
