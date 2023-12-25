@@ -29,5 +29,12 @@
     "submissions": {
       "C++": "https://atcoder.jp/contests/sumitrust2019/submissions/48838906"
     }
+  },
+  "005": {
+    "uri": "https://atcoder.jp/contests/abc121/tasks/abc121_b",
+    "name": "B. Can you solve this?",
+    "submissions": {
+      "C++": "https://atcoder.jp/contests/abc121/submissions/48839082"
+    }
   }
 }
