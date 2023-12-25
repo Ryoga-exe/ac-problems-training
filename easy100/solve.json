@@ -20,7 +20,14 @@
     "url": "https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_b",
     "name": "B. Qualification simulator",
     "submissions": {
-      "C++": "https://atcoder.jp/contests/code-festival-2016-qualb/submissions/48838670"
+      "C++": "https://atcoder.jp/contests/code-festival-2016-qualb/submissions/48838847"
+    }
+  },
+  "004": {
+    "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b",
+    "name": "B. Tax Rate",
+    "submissions": {
+
     }
   }
 }

@@ -23,4 +23,5 @@ int main() {
         }
         cout << (passed ? "Yes" : "No") << endl;
     }
+    return 0;
 }
