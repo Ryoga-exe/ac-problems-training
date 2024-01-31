@@ -4,7 +4,7 @@ import type { Config, Solve } from "./types.ts";
 const config = parse(Deno.readTextFileSync("./config.yml")) as Config;
 const ext = config.extension;
 
-Object.keys(config.categories).forEach((category) => {
+for (const category of Object.keys(config.categories)) {
   console.log("sync:", config.categories[category].name);
   const categoryId = config.categories[category].id;
   const name = config.categories[category].name;
@@ -55,4 +55,4 @@ Object.keys(config.categories).forEach((category) => {
     content.push(entry);
   }
   Deno.writeTextFileSync(`./${categoryId}/README.md`, content.join("\n"));
-});
+}
