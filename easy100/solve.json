@@ -31,7 +31,7 @@
     }
   },
   "005": {
-    "uri": "https://atcoder.jp/contests/abc121/tasks/abc121_b",
+    "url": "https://atcoder.jp/contests/abc121/tasks/abc121_b",
     "name": "B. Can you solve this?",
     "submissions": {
       "C++": "https://atcoder.jp/contests/abc121/submissions/48839082"
